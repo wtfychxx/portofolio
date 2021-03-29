@@ -1,0 +1,17 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadhli yulyanto",
+  "license": "ISC"
+}
